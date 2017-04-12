@@ -1,0 +1,9 @@
+[build]
+  command = "./build.sh"
+  publish = "dist"
+
+[template]
+  incoming-hooks = ["Magnolia"]
+
+[template.environment]
+  MAGNOLIA_API_TOKEN = "change me"

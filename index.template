@@ -1,0 +1,7 @@
+<html lang="en">
+<body>
+Deploy to Netlify template test:
+
+MAGNOLIA_API_TOKEN = %MAGNOLIA_API_TOKEN%
+</body>
+</html>
